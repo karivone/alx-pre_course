@@ -1,2 +1,2 @@
 Repo readme.md
-looking forward to learn
+How to be up to date in git
